@@ -1,0 +1,17 @@
+﻿# Root gitignore
+# Node modules
+frontend/node_modules/
+frontend/.vite/
+
+# Build output
+frontend/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+env/
+.venv/
+*.env
+
+# Misc
+.DS_Store
